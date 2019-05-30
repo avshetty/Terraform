@@ -1,2 +1,2 @@
 # Terraform
-Terraform Scripts for Public Cloud
+Terraform Scripts Azure
