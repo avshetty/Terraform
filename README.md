@@ -1,2 +1,2 @@
 # Terraform
-Terraform Scripts Azure
+Terraform Scripts for Azure
